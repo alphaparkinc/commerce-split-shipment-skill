@@ -1,3 +1,3 @@
-﻿# commerce-split-shipment-skill
+# commerce-split-shipment-skill
 
-Ready to use SDK library for commerce-split-shipment-skill.
+Production-ready agent skill for Multi warehouse delivery split.
