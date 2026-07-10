@@ -1,3 +1,3 @@
 # commerce-split-shipment-skill
 
-Production-ready agent skill for Multi warehouse delivery split.
+> **GenPark AI Agent Skill** -- Production-ready agent skill for Multi warehouse delivery split.
