@@ -1,17 +1,17 @@
-﻿{
-    "version":  "1.0.0",
-    "name":  "commerce-split-shipment-skill",
-    "outputs":  {
-                    "result_val":  {
-                                       "type":  "string"
-                                   }
-                },
-    "description":  "Commerce checkout multi warehouse inventory split delivery planner skill.",
-    "inputs":  {
-                   "input_val":  {
-                                     "type":  "string"
-                                 }
-               },
-    "author":  "alphaparkinc",
-    "prompt":  "Coordinate commerce-split-shipment-skill operations using the input configurations."
+{
+  "version": "1.0.0",
+  "name": "commerce-split-shipment-skill",
+  "outputs": {
+    "result_val": {
+      "type": "string"
+    }
+  },
+  "description": "GenPark AI Agent Skill - Commerce checkout multi warehouse inventory split delivery planner skill.",
+  "inputs": {
+    "input_val": {
+      "type": "string"
+    }
+  },
+  "author": "genpark",
+  "prompt": "Coordinate commerce-split-shipment-skill operations using the input configurations."
 }
