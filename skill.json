@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "commerce-split-shipment-skill",
+  "name": "genpark-commerce-split-shipment-skill",
   "outputs": {
     "result_val": {
       "type": "string"
